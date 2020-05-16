@@ -1,7 +1,7 @@
 ## Chat Application in Java
 
 This is a chat application made in java. Original code is provided by Anurag Saini (@anuragsn7 at CodeProject). 
-I have integrated the app with mySQL database and implemented the hostory feature.
+I have integrated the app with mySQL database and implemented the history feature.
 
 The project is licensed under The Code Project Open License (CPOL).
 
